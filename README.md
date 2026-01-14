@@ -26,7 +26,7 @@ This repository is the **Verified Authority Node** for Naboraj Sarkar. It is a p
 
 ### Key Objectives:
 - **Scalable Architecture:** Built on a micro-node philosophy for rapid deployment.
-- **Brand Consistency:** Strict adherence to the NS DevSpace "Dark Modern" aesthetic.
+- **Brand Consistency:** Strict adherence to the NS CODEX "Dark Modern" aesthetic.
 - **Search Dominance:** Optimized with JSON-LD Schema and Semantic HTML5 for top-tier Google indexing.
 
 ---
@@ -87,10 +87,10 @@ The following nodes are official and verified connection points for **Naboraj Sa
 
 Distributed under the **MIT License**.
 
-**Identity Notice:** While the code logic is open-source, the **NS DevSpace branding, logo.png, and the name "Naboraj Sarkar"** are proprietary assets.
+**Identity Notice:** While the code logic is open-source, the **NS CODEX branding, logo.png, and the name "Naboraj Sarkar"** are proprietary assets.
 
 <div align="center">
-  <sub>Managed by <b>NS DevSpace Authority</b> • 2025</sub>
+  <sub>Managed by <b>NS CODEX Authority</b> • 2026</sub>
   <br/>
   <img src="https://img.shields.io/badge/System_Type-Authority_Node-00BFA6?style=flat-square" alt="System Type">
 </div>
