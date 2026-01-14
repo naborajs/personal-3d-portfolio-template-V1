@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/naborajs.png" width="160" height="160" style="border-radius: 20%; filter: drop-shadow(0 0 20px rgba(0, 191, 166, 0.4));" alt="NS DevSpace Logo">
+  <img src="https://github.com/naborajs.png" width="160" height="160" style="border-radius: 20%; filter: drop-shadow(0 0 20px rgba(0, 191, 166, 0.4));" alt="NS CODEX Logo">
   
   <h1>🌐 NABORAJ SARKAR</h1>
   <h3>Systems Architect • Tech Innovator • Automation Specialist</h3>
