@@ -26,7 +26,7 @@ import {
 } from 'lucide-react';
 
 /**
- * NS DEVSPACE PROTOCOL v10.0 - THE ULTIMATE AUTHORITY NODE
+ * NS DEVSPACE PROTOCOL v11.0 - THE ULTIMATE AUTHORITY NODE
  * ARCHITECT: NABORAJ SARKAR
  */
 const CONFIG = {
@@ -34,7 +34,7 @@ const CONFIG = {
     name: "Naboraj Sarkar",
     tagline: "Systems Architect & Tech Innovator",
     location: "West Bengal, India",
-    logo: "https://storage.googleapis.com/static.aistudio.google.com/content/file-01jmd645zrebt008p51t6p8j2p",
+    logo: "logo.png",
     repo: "https://github.com/naborajs/personal-3d-portfolio-template/tree/main"
   },
   socials: [
@@ -231,7 +231,7 @@ export default function App() {
           <motion.div initial={{ opacity: 0, x: -50 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: 1 }} className="space-y-12">
             <div className="inline-flex items-center gap-3 px-6 py-2 rounded-full glass border-[#00BFA6]/30">
               <ShieldCheck size={14} className="text-[#00BFA6]" />
-              <span className="text-[10px] font-black tracking-[0.4em] uppercase mono text-[#00BFA6]">V10.0_System_Authority</span>
+              <span className="text-[10px] font-black tracking-[0.4em] uppercase mono text-[#00BFA6]">V11.0_System_Authority</span>
             </div>
             
             <h1 className="text-8xl md:text-[14rem] font-black tracking-tighter leading-[0.75] select-none">
